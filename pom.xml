@@ -54,7 +54,7 @@
         </pluginManagement>
     </build>
 
-  <repositories>
+  <!-- <repositories>
     <repository>
       <id>central</id>
       <url>https://pkgs.dev.azure.com/msazure/one/_packaging/one_PublicPackages/maven/v1</url>
@@ -78,5 +78,5 @@
         <enabled>false</enabled>
       </snapshots>
     </pluginRepository>
-  </pluginRepositories>
+  </pluginRepositories> -->
 </project>
